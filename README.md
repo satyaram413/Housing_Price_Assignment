@@ -9,7 +9,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 * [Objective](#objective)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -57,17 +56,12 @@ You are required to model the price of houses with the available independent var
 
 
 ## Technologies Used
-python3.10
-sklearn
-statsmodel.api
+- python 3.8.9
+- sklearn 
+- statsmodels.api
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
