@@ -56,7 +56,7 @@ You are required to model the price of houses with the available independent var
 
 
 ## Technologies Used
-- python 3.8.9
+- python 3.10.2
 - sklearn 
 - statsmodels.api
 
